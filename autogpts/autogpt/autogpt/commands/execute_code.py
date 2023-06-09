@@ -31,6 +31,9 @@ logger = logging.getLogger(__name__)
 ALLOWLIST_CONTROL = "allowlist"
 DENYLIST_CONTROL = "denylist"
 
+ALLOWLIST_CONTROL = "allowlist"
+DENYLIST_CONTROL = "denylist"
+
 
 @command(
     "execute_python_code",
