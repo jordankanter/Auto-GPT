@@ -1,0 +1,4 @@
+#!/bin/bash
+echo "force syncing (pull) https://github.com/jikanter/Auto-GPT to upstream master"
+git pull upstream master
+git push origin master
