@@ -1,0 +1,1 @@
+File Operation Logger write: /Users/jordan.kanter/Developer/Projects/MyAssistant/Auto-GPT/autogpt/auto_gpt_workspace/config.txt #d362c0dd7436fd81a65f9ccf32632a8e
