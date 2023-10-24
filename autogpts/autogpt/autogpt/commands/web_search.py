@@ -18,8 +18,6 @@ from autogpt.core.utils.json_schema import JSONSchema
 
 DUCKDUCKGO_MAX_ATTEMPTS = 3
 
-DUCKDUCKGO_MAX_ATTEMPTS = 3
-
 
 @command(
     "web_search",
