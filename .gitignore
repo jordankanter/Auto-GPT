@@ -168,8 +168,9 @@ package.json
 
 # Allow for locally private items
 # private
-pri* 
+pri*
 # ignore
 ig*
 .github_access_token
 arena/TestAgent.json
+arena/testAgent.json
