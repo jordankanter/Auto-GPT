@@ -3,7 +3,6 @@ from typing import Any
 
 from pydantic import BaseModel
 
-
 class ContentType(str, enum.Enum):
     # TBD what these actually are.
     TEXT = "text"
@@ -14,6 +13,8 @@ class Knowledge(BaseModel):
     content: str
     content_type: ContentType
     content_metadata: dict[str, Any]
+    content_parser: object
+
 
 
 class AbilityResult(BaseModel):
